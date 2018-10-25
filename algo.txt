@@ -1,0 +1,12 @@
+algorithme:Surface D'un triangle
+variables:
+base_var , hoteur_var , s :reèl
+Début
+     Ecrire "donner la base triangle SVP" , base_var
+     Ecrire "donner l'hoteur triangle SVP" , hoteur_var
+     s<- (base_var * hoteur_var)/2
+     Ecrire "la surface de triangle est :" , s
+Fin     
+
+
+
